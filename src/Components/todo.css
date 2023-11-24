@@ -1,0 +1,55 @@
+.container{
+    margin-top: 100px;
+    background-color: goldenrod;
+    border-radius: 10px;
+    width: 40%;
+
+
+}
+.heading{
+    text-align: center;
+    color: white;
+}
+.form-group{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    
+    
+}
+.button-class{
+    margin: 10px;
+    background-color: transparent;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+    
+}
+.list{
+    padding: 20px;
+   
+    
+}
+.form-control{
+    margin-bottom: 10px;
+    display: flex;
+    justify-content: space-between;
+}
+#done{
+    color: green;
+    width: 40px;
+
+}
+#delete{
+color: red;
+width: 40px;
+}
+#edit{
+color: blue;
+width: 40px;
+}
+#strike{
+    text-decoration: line-through;
+}
